@@ -1,5 +1,6 @@
 use godot::prelude::{ExtensionLibrary, gdextension};
 
+mod input;
 mod player;
 
 // ===== Definitions ===========================================================

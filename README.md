@@ -5,6 +5,13 @@ Rust bindings for a scripting language. It's following
 [this tutorial](https://godot-rust.github.io/book/intro/hello-world.html#creating-a-rust-class),
 and performing some light refactoring atop it.
 
+## Features
+
+Since this is a Hello World project, obviously, there are not many features.
+Mainly, this project implements a simple 2D sprite player controller that can be
+moved with the arrow keys around the screen. The sprite also rotates around
+depending on the direction of movement.
+
 ## Development
 
 As this is a Rust project, running `cargo build` in the `/rust` folder will
