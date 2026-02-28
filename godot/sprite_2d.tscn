@@ -3,5 +3,5 @@
 [ext_resource type="Texture2D" uid="uid://cvtllpyd13kos" path="res://icon.svg" id="1_f7cmv"]
 
 [node name="Player" type="Player" unique_id=542704731]
-position = Vector2(310, 103)
+position = Vector2(567, 301)
 texture = ExtResource("1_f7cmv")
